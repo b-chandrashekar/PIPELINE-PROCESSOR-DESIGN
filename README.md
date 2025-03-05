@@ -37,4 +37,4 @@ Importance of Pipelining:
 Pipelining is a fundamental technique in processor design, allowing for parallel instruction execution and improved throughput. By breaking down instruction execution into separate stages, multiple instructions can be processed at once, reducing idle time and increasing overall performance.
 
 #output
-
+![Image](https://github.com/user-attachments/assets/ed8fdc45-0e11-4ebf-999d-d6e10cd0bf6c)
